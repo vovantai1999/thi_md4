@@ -17,7 +17,7 @@ import * as Popper from '@popperjs/core';
  * Constants
  * ------------------------------------------------------------------------
  */
-const NODE_TEXT = 3;
+const NODE_TEXT = 3 ;
 const SelectorEngine = {
   find(selector, element = document.documentElement) {
     return [].concat(...Element.prototype.querySelectorAll.call(element, selector));

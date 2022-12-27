@@ -1,4 +1,4 @@
-package com.example.th_module4.model;
+package com.example.th_module4.model ;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

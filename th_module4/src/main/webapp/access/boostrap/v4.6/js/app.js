@@ -2,11 +2,11 @@ class App {
     static showDeleteConfirmDialog() {
         return Swal.fire({
             icon: "warning",
-            text: "Are you sure you want to delete the selected data ?",
+            text: "Bạn có muốn chắc chắn xóa dữ liệu đã chọn ?",
             showCancelButton: true,
             confirmButtonColor: "#3085d6",
             cancelButtonColor: "#d33",
-            confirmButtonText: "Yes, delete it !"
+            confirmButtonText: "Vâng! Tôi muốn Xóa !"
         });
     };
 

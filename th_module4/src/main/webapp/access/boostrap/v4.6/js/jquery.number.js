@@ -56,7 +56,7 @@
 
         {
 
-            var range = this.createTextRange();
+            var range = this.createTextRange() ;
 
             range.collapse( true );
 

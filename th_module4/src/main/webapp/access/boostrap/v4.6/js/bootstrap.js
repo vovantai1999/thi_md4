@@ -12,7 +12,7 @@
   function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 
   var $__default = /*#__PURE__*/_interopDefaultLegacy($);
-  var Popper__default = /*#__PURE__*/_interopDefaultLegacy(Popper);
+  var Popper__default = /*#__PURE__*/_interopDefaultLegacy(Popper) ;
 
   function _defineProperties(target, props) {
     for (var i = 0; i < props.length; i++) {

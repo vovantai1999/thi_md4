@@ -32,7 +32,7 @@ $(function () {
             } else {
                 $("#message-alert .alert-danger").addClass("hide");
             }
-            this.defaultShowErrors();
+            this.defaultShowErrors() ;
         },
         messages: {
             fullName: {
